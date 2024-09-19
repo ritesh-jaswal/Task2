@@ -1,0 +1,9 @@
+employee-service:
+  version: v2
+
+employee:
+   name: "Rakesh"
+   age: "30"
+
+server:
+  port: 8081
